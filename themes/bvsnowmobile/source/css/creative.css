@@ -391,9 +391,35 @@ header.masthead {
 .hd-phone {
   color: #fff;
 }
+
+
+#mainNav .navbar-nav > li.nav-item > a.special-link {
+  border-radius:5px;
+  background:#0098D3;
+  color:#062e7e;
+}
+#mainNav .navbar-nav > li.nav-item > a.special-link:hover {
+  color: #fff;
+}
+
+#mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover {
+  color: #0098D3;
+}
+
+#mainNav.navbar-shrink .navbar-nav > li.nav-item > a.special-link:hover {
+  color:#fff;
+}
+
 @media (max-width: 992px) {
   .hd-phone {
-  color: #003B78;
+    color: #003B78;
   }
+   #mainNav .navbar-nav > li.nav-item > a.nav-link {
+    padding-left:10px;
+   }
+/*  #mainNav .navbar-nav > li.nav-item > a.special-link {
+    background:none;
+    color: red;
+  }*/
 }
 
