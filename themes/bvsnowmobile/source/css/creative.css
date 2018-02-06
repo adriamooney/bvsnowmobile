@@ -372,6 +372,11 @@ header.masthead {
   text-align:center;
 }
 
+.sidebar-news {
+  border-radius: 5px;
+  padding: 15px;
+}
+
 .sidebar img {
   max-width:100%;
   border: 2px solid #3099D0;
