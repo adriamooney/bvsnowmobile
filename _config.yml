@@ -82,4 +82,4 @@ deploy:
   branch: master
 
 include:
-  - .htaccess
+  - _redirects

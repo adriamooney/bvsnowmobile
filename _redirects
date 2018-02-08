@@ -1,0 +1,39 @@
+# Redirect with a 301         
+
+/webcam.html / 301
+
+/webcam.php / 301
+
+/store.html / 301
+
+/booking/admin.php / 301
+
+/aboutbv.php /about-bear-valley/ 
+
+/classifieds.php /garage-sale/ 
+
+/contact.php /contact/
+/green.php /how-green-are-we/
+
+/reservations/ /rentals/
+
+/safety.php /safety-tips/
+
+/service.php /
+/snowmobilesales.php /
+
+/charity.php /
+
+/swnomobiles-with-mountains-in-background/ /
+
+/enter-for-your-chance-to-win-by-the-16th/ /
+
+/chasing-sled/ /
+
+/poker-run-2/ /
+
+/the-family-that-plays-together-stays-together/ /
+
+/garage-sale/ /
+
+/classifieds/ /
