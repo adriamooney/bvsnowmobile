@@ -80,3 +80,6 @@ deploy:
   type: git
   repo: https://github.com/adriamooney/bvsnowmobile.git
   branch: master
+
+include:
+  - .htaccess
