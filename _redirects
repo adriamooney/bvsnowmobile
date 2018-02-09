@@ -1,8 +1,8 @@
 # Redirect with a 301         
 
-/webcam.html / 301
+/webcam.html /webcam 301
 
-/webcam.php / 301
+/webcam.php /webcam 301
 
 /store.html / 301
 

@@ -1,0 +1,3 @@
+redirects = [
+  {from = "/webcam.html", to = "/webcam"},
+  {from = "/webcam.php", to = "/webcam"}]
