@@ -1,3 +1,23 @@
 redirects = [
-  {from = "/webcam.html", to = "/webcam"},
-  {from = "/webcam.php", to = "/webcam"}]
+  {from = "/webcam.html", to = "/webcam/"},
+  {from = "/webcam.php", to = "/webcam/"},
+  {from = "/booking/admin.php", to = "/"},
+  {from = "/store.html", to = "/"},
+  {from = "/aboutbv.php", to = "/about-bear-valley/"},
+  {from = "/classifieds.php", to = "/"},
+  {from = "/garage-sale", to = "/"},
+  {from = "/classifieds", to = "/"},
+  {from = "/green.php", to = "/"},
+  {from = "/contact.php", to = "/contact/"},
+  {from = "/reservations", to = "/rentals/"},
+  {from = "/safety.php", to = "/safety-tips/"},
+  {from = "/service.php", to = "/"},
+  {from = "/snowmobilesales.php", to = "/"},
+  {from = "/swnomobiles-with-mountains-in-background/", to = "/"},
+  {from = "/enter-for-your-chance-to-win-by-the-16th/", to = "/"},
+  {from = "/chasing-sled/", to = "/"},
+  {from = "/enter-for-your-chance-to-win-by-the-16th/", to = "/"},
+  {from = "/chasing-sled/", to = "/"},
+  {from = "/poker-run-2/", to = "/"},
+  {from = "/the-family-that-plays-together-stays-together/", to = "/"}
+  ]
