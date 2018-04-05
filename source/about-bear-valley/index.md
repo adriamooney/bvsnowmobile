@@ -24,13 +24,12 @@ Nestled half way between Tahoe and Yosemite, Bear Valley is rich in geologic, na
 *   45 minutes: [The Victoria Inn](http://victoriainn-murphys.com/) in Murphys- 209.728.8933
 *   50 minutes: [Best Western Cedar Inn & Suites](http://BestWesternAngelsCamp.com/) in Angels Camp - 209.736.4000
 *   50 minutes: [Travelodge](http://www.travelodge.com/hotels/california/angels-camp/travelodge-angels-camp-ca/hotel-overview?propsearch=AngelsCamp) in Angels Camp - 209.736.4242
-*   AND for many more lodging options along Hwy 4 : [Calaveras Visitors Bureau](http://www.gocalaveras.com/directory/places-to-stay/?utm_source=Copy+of+Nov+2014+Visitor+Newsletter+for+Members&utm_campaign=November+2014+Visitor+Blast+&utm_medium=email)
+*   AND for many more lodging options along Hwy 4 : [Calaveras Visitors Bureau](http://www.gocalaveras.com/)
 
 ### Bear Valley Food:
 
-*   [Smoking Barrel Cafe](http://www.smokinbarrelcafe.com/) - Open 7am to 2pm - Closed Mon-Tue - 209.753.2250
 *   Creekside Dining Room in the Lodge - 209.753.2327
-*   General Store (Food, Deli & Supplies) - 209.753.2842
+*   General Store (Food, Deli & Supplies)
 *   Grizzly Lounge in the Lodge (Grill and Bar) - 209.753.2327
 *   Sky High Pizza - 209.753.2050
 *   Dining can also be found at the Ski Resort - 209.753.2301
@@ -45,7 +44,6 @@ Nestled half way between Tahoe and Yosemite, Bear Valley is rich in geologic, na
 
 *   [Bear Valley WEBCAM](http://www.wunderground.com/webcams/cwread/1/show.html) - See our current snow level in Bear Valley
 *   [Snow Depth at Ebbetts Pass 8765' Daily Readings Report on our Lake Alpine Trail](http://www.wcc.nrcs.usda.gov/reportGenerator/view/customSingleStationReport/daily/462%3Aca%3ASNTL%7Cid%3D%22%22%7Cname/-7%2C0/WTEQ%3A%3Avalue%2CWTEQ%3A%3Adelta%2CSNWD%3A%3Avalue%2CSNWD%3A%3Adelta)
-*   [Bear Valley Snowmobile Club Website](http://sites.google.com/site/bearvalleysnowmobileclub/)
 *   [Highway 4 Road Report](http://www.dot.ca.gov/hq/roadinfo/sr4) 800.427.ROAD - Always carry chains!
 *   [CNSA - California Nevada Snowmobile Association](http://cnsa.net/)
 *   [California OHV State Sno-Park Map and locations](http://ohv.parks.ca.gov/?page_id=1233)
