@@ -150,7 +150,6 @@ redirects = [
 {from = "/the-family-that-plays-together-stays-together/", to = "/"},
 {from = "/snowmobile-with-child-carrier/", to = "/"},
 {from = "/files/EN_SUMMITEVEREST600_10_v4.pdf", to = "/"},
-{from = "/files/Bear_Valley_Village_Map.pdf", to = "/"},
 {from = "/big-sandwich-after-snowmobiling/", to = "/"},
 {from = "/files/EN_SUMMITX-RSHILLCLIMBEDITION_10_v4.pdf", to = "/"},
 {from = "/files/SKANDICSWT.pdf", to = "/"},
