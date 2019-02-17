@@ -10,7 +10,9 @@ We are the only snowmobile rental operator who has the privilege to rent snowmob
 
 Make online reservations below, or give us a call at **877-HWY4-FUN**.
 
-### Reserve online:
+### Reserve online:  
+
+Have questions?  Read our <a href="/rental-faq">Rental FAQ</a>.
 
 <iframe seamless="" frameborder="0" width="100%" height="1000px" class="rezdy" src="https://bvsnowmobile.rezdy.com/?iframe=true"></iframe>
 
@@ -62,8 +64,3 @@ Send us an email at info@bvsnowmobile.com or post your review:
 <span class="social-nav">
 	<a class="yt" href="http://www.yelp.com/biz/bear-valley-snowmobile-bear-valley" target="_blank"><i class="fa fa-3x fa-yelp"></i></a> <a class="fb" href="http://facebook.com/BearValleySnowmobile" target="_blank"><i class="fa fa-3x fa-facebook-square"></i></a> <a class="gp" href="https://plus.google.com/106492513295353593104/" target="_blank"><i class="fa fa-3x fa-google-plus-square"></i></a>
 </span>
-
-
-
-
-
