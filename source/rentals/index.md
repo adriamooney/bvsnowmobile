@@ -31,7 +31,7 @@ To rent snowmobiles for the BEAR VALLEY 10 mile long groomed trail we offer snow
 #### Lake Alpine Trail:
 
 *   2 Hours - $149
-*   4 Hours - $189
+*   4 Hours - $219
 
 (Two Hour Minimum, Two Machine Minimum)
 
