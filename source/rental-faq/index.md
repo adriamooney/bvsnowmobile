@@ -10,7 +10,7 @@ date: 2018-01-24 14:04:24
 #### Lake Alpine Trail:
 
 *   2 Hours - $149
-*   4 Hours - $189
+*   4 Hours - $219
 
 (Two Hour Minimum, Two Machine Minimum)
 

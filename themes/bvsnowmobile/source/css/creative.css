@@ -427,3 +427,27 @@ header.masthead {
     color: red;
   }*/
 }
+
+.cali-img {
+  height:250px;
+  position:absolute;
+  left:-10%;
+  top:-10px;
+
+}
+
+@media (min-width: 1049px) and (max-width: 1200px) {
+    .cali-img {
+      left: -14%;
+    }
+}
+
+@media (max-width: 1048px) {
+  .cali-img {
+    position:relative;
+    height:150px;
+    left:0;
+
+  }
+
+}
