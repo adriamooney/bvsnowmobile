@@ -37,9 +37,9 @@ To rent snowmobiles for the BEAR VALLEY 10 mile long groomed trail we offer snow
 
 #### Spicer Reservoir Trail:
 
-*   2 Hours - $179
+*   3 Hours - $189
 
-(Two Hour Minimum, Two Machine Minimum)
+(Three Hour Minimum, Two Machine Minimum.  Advance reservations only.)
 
 #### Bear Valley Village Area*:
 
@@ -47,6 +47,7 @@ To rent snowmobiles for the BEAR VALLEY 10 mile long groomed trail we offer snow
 *   People Carrier - $55/hour
 
 Bear Valley Village home renters:
+
 *   1 Day - $199
 *   2 Day - $380
 *   3 Day - $510
@@ -56,7 +57,7 @@ Bear Valley Village home renters:
 *   7 Day - $950
 *   People Carrier - $85/day (24 hours)
 
-*Bear Valley Village 1-7 day rentals are available for Bear Valley Village rental home visitors only, for transportation to and from homes in the subdivision lacking vehicle access. (daily rentals are not available for pleasure riding). 
+*Bear Valley Village 1-7 day rentals are available for Bear Valley Village rental home visitors only, for transportation to and from homes in the subdivision lacking vehicle access. (daily rentals are not available for pleasure riding).
 NOTE: Bear Valley is a snowmobile only community when there is snow on the ground so please remember our [Good Neighbor Riding Rules](/files/Good_Neighbor_Riding_Rules.pdf) Group Discounts: 5 or more snowmobiles 5% off 10 or more snowmobiles 10% off AND if you rent during the week DOUBLE your discount Group Discounts valid anytime except Holiday weeks.
 
 ### YOUR FEEDBACK
