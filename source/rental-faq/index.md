@@ -51,7 +51,7 @@ We provide spectacular outdoor adventures the entire family can enjoy. All snowm
 
 ### What about little kids?
 
-For children younger then five years old we offer a specially designed front pack “Kid Karrier” for children as young as two. Another great option for the kids is to rent the people carrier – available in the Bear Valley Village only - this “limo” seats two, up to 250lbs – see picture to the right.
+For children younger then five years old we offer a specially designed front pack “Kid Karrier” for children as young as three. Another great option for the kids is to rent the people carrier – available in the Bear Valley Village only - this “limo” seats two, up to 250lbs.
 
 ### What about elderly folks or the disabled?
 
