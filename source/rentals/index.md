@@ -18,7 +18,9 @@ Have questions?  Read our <a href="/rental-faq">Rental FAQ</a>.
 
 Have questions?  Read our <a href="/rental-faq">Rental FAQ</a>.
 
-PLEASE ARRIVE AN HOUR BEFORE YOUR START TIME FOR THE ALPINE AND SPICER trails at our shop at 132 Bear Valley Road, inside the Bear Valley Transportation Center, to allow for time to fill out the paperwork, helmet fittings and the 1.5 mile drive to the trail head at the Sno-Park.
+PLEASE ARRIVE AN HOUR BEFORE YOUR START TIME FOR THE ALPINE AND SPICER trails at our shop at 132 Bear Valley Road, inside the Bear Valley Transportation Center, to allow for time to fill out the paperwork, helmet fittings and the 1.5 mile drive to the trail head at the Sno-Park. **All passengers must be over the age of 5**.
+
+
 
 To rent snowmobiles for the BEAR VALLEY 10 mile long groomed trail we offer snowmobiles with trailers (great for kids!) on a first-come-first-serve basis. During the holidays please allow a 1/2 hour for possible wait times. Give us a call at 877-HWY4-FUN (877-499-4386) and we will let you know what the availability is like.
 
