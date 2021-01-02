@@ -35,13 +35,13 @@ To rent snowmobiles for the BEAR VALLEY 10 mile long groomed trail we offer snow
 *   2 Hours - $149
 *   4 Hours - $219
 
-(Two Hour Minimum, Two Machine Minimum)
+(Two Hour Minimum, Two Machine Minimum. No People Trailers)
 
 #### Spicer Reservoir Trail:
 
 *   3 Hours - $189
 
-(Three Hour Minimum, Two Machine Minimum.  Advance reservations only.)
+(Three Hour Minimum, Two Machine Minimum.  Advance reservations only. No People Trailers)
 
 #### Bear Valley Village Area*:
 
