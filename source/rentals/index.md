@@ -24,7 +24,7 @@ PLEASE ARRIVE AN HOUR BEFORE YOUR START TIME FOR THE ALPINE AND SPICER trails at
 
 To rent snowmobiles for the BEAR VALLEY 10 mile long groomed trail we offer snowmobiles with trailers (great for kids!) on a first-come-first-serve basis. During the holidays please allow a 1/2 hour for possible wait times. Give us a call at 877-HWY4-FUN (877-499-4386) and we will let you know what the availability is like.
 
-**To get you out on your snowmobile faster, download and complete [Release of Liability](http://www.bvsnowmobile.com/wordpress_bvs/wp-content/uploads/2018/01/Release-of-Liability-Form-2018-8.5x11-Version.pdf). Read and bring in the completed 3 pages so we can get you going!**
+**To get you out on your snowmobile faster, download and complete [Release of Liability](https://www.bvsnowmobile.com/files/release_of_liability_111020.pdf). Read and bring in the completed 3 pages so we can get you going!**
 
 <hr>
 
