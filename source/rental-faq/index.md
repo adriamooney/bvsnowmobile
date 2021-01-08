@@ -10,15 +10,15 @@ date: 2018-01-24 14:04:24
 #### Lake Alpine Trail:
 
 *   2 Hours - $149
-*   4 Hours - $219
+*   4 Hours - $249
 
-(Two Hour Minimum, Two Machine Minimum)
+(Two Hour Minimum, Two Machine Minimum. No People Trailers)
 
 #### Spicer Reservoir Trail:
 
-*   2 Hours - $179
+*   3 Hours - $189
 
-(Two Hour Minimum, Two Machine Minimum)
+(Two Hour Minimum, Two Machine Minimum. Advance reservations only. No People Trailers)
 
 #### Bear Valley Village Area*:
 
@@ -51,7 +51,7 @@ We provide spectacular outdoor adventures the entire family can enjoy. All snowm
 
 ### What about little kids?
 
-For children younger then five years old we offer a specially designed front pack “Kid Karrier” for children as young as three for the Bear Valley Village Trail only.  Another great option is to rent the people carrier – available in the Bear Valley Village only - this “limo” seats two, up to 250lbs so a child and adult can ride together. The Lake Alpine Trail all passengers must be over 5 years of age. All children must wear helmets and they must fit them properly.
+For children younger then five years old we offer a specially designed front pack "Kid Karrier" for children as young as three for the Bear Valley Village Trail only.  Another great option is to rent the people carrier – available in the Bear Valley Village only - this "limo" seats two, up to 250lbs so a child and adult can ride together. The Lake Alpine Trail all passengers must be over 5 years of age. All children must wear helmets and they must fit them properly.
 
 ### What about elderly folks or the disabled?
 
