@@ -51,7 +51,7 @@ We provide spectacular outdoor adventures the entire family can enjoy. All snowm
 
 ### What about little kids?
 
-For children younger then five years old we offer a specially designed front pack "Kid Karrier" for children as young as three for the Bear Valley Village Trail only.  Another great option is to rent the people carrier – available in the Bear Valley Village only - this "limo" seats two, up to 250lbs so a child and adult can ride together. The Lake Alpine Trail all passengers must be over 5 years of age. All children must wear helmets and they must fit them properly.
+We offer the People Trailer on the Bear Valley Village Trail only that seats up to 2 people or 250lbs so a child and adult can ride together.  All passengers must be over 5 years of age on our trails. All children must wear helmets and they must fit them properly.
 
 ### What about elderly folks or the disabled?
 
@@ -75,7 +75,7 @@ For those of us without the muscular strength, coordination, or you are just tir
 
 ### Should I make reservations?
 
-Reservations are HIGHLY recommended on weekends and holiday weeks for ALPINE and SPICER trails. Give us a call at 209-753-2323 with a credit card number. A 24 hour cancellation notice required for a full refund.
+Reservations required for Lake Alpine Trail 48 hours in advance online. Please call to make reservations for Spicer Trail. Give us a call at 209-753-2323 with a credit card number. A 24 hour cancellation notice required for a full refund.
 
 ### How do I get there?
 
