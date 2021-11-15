@@ -32,20 +32,20 @@ To rent snowmobiles for the BEAR VALLEY 10 mile long groomed trail we offer snow
 
 #### Lake Alpine Trail:
 
-*   2 Hours - $149
-*   4 Hours - $249
+*   2 Hours - $159
+*   4 Hours - $259
 
 (Two Hour Minimum, Two Machine Minimum. No People Trailers)
 
 #### Spicer Reservoir Trail:
 
-*   3 Hours - $189
+*   3 Hours - $199
 
 (Three Hour Minimum, Two Machine Minimum.  Advance reservations only. No People Trailers)
 
 #### Bear Valley Village Area*:
 
-*   1 Hr - $99
+*   1 Hr - $109
 *   People Carrier - $55/hour
 
 Bear Valley Village home renters:
