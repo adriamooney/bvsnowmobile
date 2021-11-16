@@ -48,6 +48,8 @@ To rent snowmobiles for the BEAR VALLEY 10 mile long groomed trail we offer snow
 *   1 Hr - $109
 *   People Carrier - $55/hour
 
+(Open Wednesday through Sunday and holidays)
+
 Bear Valley Village home renters:
 
 *   1 Day - $199
