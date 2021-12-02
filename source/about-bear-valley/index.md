@@ -13,7 +13,6 @@ Nestled half way between Tahoe and Yosemite, Bear Valley is rich in geologic, na
 *   [Bear Valley Lodge](http://www.bear-valley.com/bear-valley-lodge) - 209.753.2325
 *   Bear Valley Real Estate - 209.753.2334
 *   [Tamarack Lodge](http://tamaracklodgeatbearvalley.com/) - 209.753.2310
-*   [Tamarack Pines Inn](http://www.tamarackpinesinn.com/) - 209.753.2895
 
 ### Hwy 4 Lodging, 30-50 minutes to Bear Valley:
 
@@ -42,10 +41,8 @@ Nestled half way between Tahoe and Yosemite, Bear Valley is rich in geologic, na
 
 ### Other handy links:
 
-*   [Bear Valley WEBCAM](http://www.wunderground.com/webcams/cwread/1/show.html) - See our current snow level in Bear Valley
-*   [Snow Depth at Ebbetts Pass 8765' Daily Readings Report on our Lake Alpine Trail](http://www.wcc.nrcs.usda.gov/reportGenerator/view/customSingleStationReport/daily/462%3Aca%3ASNTL%7Cid%3D%22%22%7Cname/-7%2C0/WTEQ%3A%3Avalue%2CWTEQ%3A%3Adelta%2CSNWD%3A%3Avalue%2CSNWD%3A%3Adelta)
+*   [Bear Valley WEBCAM](/webcam) - See our current snow level in Bear Valley
 *   [Highway 4 Road Report](http://www.dot.ca.gov/hq/roadinfo/sr4) 800.427.ROAD - Always carry chains!
-*   [CNSA - California Nevada Snowmobile Association](http://cnsa.net/)
 *   [California OHV State Sno-Park Map and locations](http://ohv.parks.ca.gov/?page_id=1233)
 *   [Bear Valley Good Neighbor Riding Rules](/files/Good_Neighbor_Riding_Rules.pdf)
 

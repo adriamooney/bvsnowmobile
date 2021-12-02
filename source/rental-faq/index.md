@@ -25,6 +25,8 @@ date: 2018-01-24 14:04:24
 *   1 Hr - $109
 *   People Carrier - $55/hour
 
+(Open Wednesday through Sunday and holidays)
+
 Bear Valley Village home renters:
 *   1 Day - $199
 *   2 Day - $380
@@ -35,7 +37,7 @@ Bear Valley Village home renters:
 *   7 Day - $950
 *   People Carrier - $85/day (24 hours)
 
-*Bear Valley Village 1-7 day rentals are available for Bear Valley Village rental home visitors only. NOTE: Bear Valley is a snowmobile only community when there is snow on the ground so please remember our [Good Neighbor Riding Rules](/files/Good_Neighbor_Riding_Rules.pdf) Group Discounts: 5 or more snowmobiles 5% off 10 or more snowmobiles 10% off AND if you rent during the week DOUBLE your discount Group Discounts valid anytime except Holiday weeks
+*Bear Valley Village 1-7 day rentals are available for Bear Valley Village rental home visitors only. NOTE: Bear Valley is a snowmobile only community when there is snow on the ground so please remember our [Good Neighbor Riding Rules](/files/Good_Neighbor_Riding_Rules.pdf) 
 
 ### Where can you ride our rentals?
 
