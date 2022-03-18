@@ -50,17 +50,6 @@ To rent snowmobiles for the BEAR VALLEY 10 mile long groomed trail we offer snow
 
 (Open Wednesday through Sunday and holidays)
 
-Bear Valley Village home renters:
-
-*   1 Day - $199
-*   2 Day - $380
-*   3 Day - $510
-*   4 Day - $630
-*   5 Day - $750
-*   6 Day - $810
-*   7 Day - $950
-*   People Carrier - $85/day (24 hours)
-
 ### YOUR FEEDBACK
 
 Send us an email at info@bvsnowmobile.com or post your review:

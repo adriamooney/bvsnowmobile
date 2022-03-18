@@ -27,16 +27,6 @@ date: 2018-01-24 14:04:24
 
 (Open Wednesday through Sunday and holidays)
 
-Bear Valley Village home renters:
-*   1 Day - $199
-*   2 Day - $380
-*   3 Day - $510
-*   4 Day - $630
-*   5 Day - $750
-*   6 Day - $810
-*   7 Day - $950
-*   People Carrier - $85/day (24 hours)
-
 ### Where can you ride our rentals?
 
 Our snowmobiles ready to go at the following trail heads:
